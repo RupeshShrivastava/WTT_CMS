@@ -1,0 +1,37 @@
+{
+  "code": "$code",
+  "name": "Pak",
+  "description": "Test-automation",
+  "status": "active",
+  "parent_id": null,
+  "image_url": "https://s3-ap-southeast-1.amazonaws.com/timor-apotik-antar/categories/i_batuk.png",
+  "sub_categories": [],
+  "channels": [
+    "GO_MED",
+    "HALODOC"
+  ],
+  "display": true,
+  "display_order": 100,
+  "images": [
+    {
+      "type": "image_url",
+      "extension": "webp",
+      "url": "https://s3.amazonaws.com/uifaces/faces/twitter/myastro/128.jpg"
+    },
+    {
+      "type": "image_url",
+      "extension": "webp",
+      "url": "http://placeimg.com/640/480/cats"
+    },
+    {
+      "type": "thumbnail_url",
+      "extension": "webp",
+      "url": "http://placeimg.com/640/480/city"
+    },
+    {
+      "type": "thumbnail_url",
+      "extension": "webp",
+      "url": "https://s3.amazonaws.com/uifaces/faces/twitter/kirangopal/128.jpg"
+    }
+  ]
+}

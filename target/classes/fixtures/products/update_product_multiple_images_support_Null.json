@@ -1,0 +1,15 @@
+{
+  "name": "test product",
+  "meta_description": "good for anything",
+  "meta_keywords": "test automation",
+  "type": "medicine",
+  "base_price": 1,
+  "currency": "IDR",
+  "thumbnail_url": "http://akjng.ccjdnc.png",
+  "image_url": "http://akjng.ccjdnc.png",
+  "manufacturer_id": 1,
+  "status": "inactive",
+  "display": false,
+  "max_retail_price": 1000,
+  "images": null
+}

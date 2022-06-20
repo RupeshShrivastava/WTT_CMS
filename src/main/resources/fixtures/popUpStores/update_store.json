@@ -1,0 +1,9 @@
+{
+  "image_url": "new_image_url",
+  "thumbnail_url": "thumb_nail_url",
+  "display_order": 200,
+  "status": "inactive",
+  "channels": [
+    "HALODOC"
+  ]
+}

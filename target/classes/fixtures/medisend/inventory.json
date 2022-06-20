@@ -1,0 +1,7 @@
+[
+  {
+    "type": "$type",
+    "product_id": "$productId",
+    "quantity": $quantity
+  }
+]

@@ -1,0 +1,11 @@
+{
+  "sku_id": "$sku_id",
+  "cost_price": "$cost_price",
+  "sale_price": "$sale_price",
+  "recommended_merchant_price":"$recommended_merchant_price",
+  "currency": "IDR",
+  "active": true,
+  "multiplicative_factor": 1,
+  "additive_factor": 0,
+  "product_id": "$product_id"
+}

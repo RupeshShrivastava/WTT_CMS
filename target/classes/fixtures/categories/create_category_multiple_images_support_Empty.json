@@ -1,0 +1,17 @@
+{
+  "code": "$code",
+  "name": "Pak",
+  "description": "Test-automation",
+  "status": "active",
+  "parent_id": null,
+  "image_url": "https://s3-ap-southeast-1.amazonaws.com/timor-apotik-antar/categories/i_batuk.png",
+  "sub_categories": [],
+  "channels": [
+    "GO_MED",
+    "HALODOC"
+  ],
+  "display": true,
+  "display_order": 100,
+  "images": [
+  ]
+}

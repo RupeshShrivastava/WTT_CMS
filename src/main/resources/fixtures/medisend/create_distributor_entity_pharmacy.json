@@ -1,0 +1,11 @@
+{
+  "distributor_reference_id" : "$distributor_reference_id",
+  "pharmacy_location_id": "$pharmacy_location_id",
+  "name": "$name",
+  "status": "$status",
+  "entity_type": "distributor",
+  "attributes": {
+    "key": "$value",
+    "key2": "value2"
+  }
+}

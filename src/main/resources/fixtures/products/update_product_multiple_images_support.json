@@ -1,0 +1,46 @@
+{
+  "name": "test product",
+  "meta_description": "good for anything",
+  "meta_keywords": "test automation",
+  "type": "medicine",
+  "base_price": 1,
+  "currency": "IDR",
+  "thumbnail_url": "http://akjng.ccjdnc.png",
+  "image_url": "http://akjng.ccjdnc.png",
+  "manufacturer_id": 1,
+  "status": "inactive",
+  "display": false,
+  "max_retail_price": 1000,
+  "images": [
+    {
+      "type": "image_url",
+      "extension": "webp",
+      "url": "https://s3.amazonaws.com/uifaces/faces/twitter/myastro/128.jpg"
+    },
+    {
+      "type": "image_url",
+      "extension": "webp",
+      "url": "http://placeimg.com/640/480/cats"
+    },
+    {
+      "type": "thumbnail_url",
+      "extension": "webp",
+      "url": "http://placeimg.com/640/480/city"
+    },
+    {
+      "type": "thumbnail_url",
+      "extension": "webp",
+      "url": "https://s3.amazonaws.com/uifaces/faces/twitter/kirangopal/128.jpg"
+    },
+    {
+      "type": "thumbnail_url",
+      "extension": "webp",
+      "url": "http://placeimg.com/640/480/city"
+    },
+    {
+      "type": "thumbnail_url",
+      "extension": "webp",
+      "url": "https://s3.amazonaws.com/uifaces/faces/twitter/kirangopal/128.jpg"
+    }
+  ]
+}

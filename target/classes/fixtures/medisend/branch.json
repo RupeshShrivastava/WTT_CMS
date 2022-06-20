@@ -1,0 +1,7 @@
+{
+  "name": "$name",
+  "status": "$status",
+  "attributes": {
+    "minimum_basket_size": $minBasketSize
+  }
+}

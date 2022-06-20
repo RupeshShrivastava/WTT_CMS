@@ -1,0 +1,10 @@
+{
+  "conversion_type":"halodoc_markup",
+  "conversion_level":"merchant_product",
+  "item_id":"$item_id",
+  "sequence":2,
+  "multiplicative_factor":1,
+  "additive_factor":10.0,
+  "active":true,
+  "priority":1
+}

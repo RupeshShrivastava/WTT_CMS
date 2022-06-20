@@ -1,0 +1,2 @@
+13:14:47.390 [main] INFO  c.h.c.BaseCMSTest - Setting up cms-test api suite..
+13:14:50.635 [main] INFO  c.h.c.BaseCMSTest - Teardown after cms-test api suite.

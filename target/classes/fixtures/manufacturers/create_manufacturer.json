@@ -1,0 +1,11 @@
+{
+  "code": "$code",
+  "name": "Mahaakam",
+  "address_line": "Address 2",
+  "city": "Mang",
+  "postal_code": "560100",
+  "country": "IN",
+  "email_address": "test@email.com",
+  "phone": "987654321",
+  "contact_person": "abc"
+}

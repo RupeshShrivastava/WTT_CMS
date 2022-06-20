@@ -1,0 +1,9 @@
+{
+  "conversion_type": "$conversion_type",
+  "conversion_level": "merchant_product",
+  "item_id": "$item_id",
+  "priority": "$priority",
+  "multiplicative_factor": "$multiplicative_factor",
+  "additive_factor": 0,
+  "active": true
+}

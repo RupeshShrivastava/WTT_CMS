@@ -1,0 +1,11 @@
+{
+  "sku_id": "$sku_id",
+  "cost_price": 600,
+  "sale_price": 600,
+  "currency": "IDR",
+  "active": "true",
+  "multiplicative_factor": 2,
+  "additive_factor": 0,
+  "product_id": "$product_id",
+  "merchant_price": 600
+}

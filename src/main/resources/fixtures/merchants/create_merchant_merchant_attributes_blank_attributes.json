@@ -1,0 +1,77 @@
+{
+  "name": "NewMerchant5",
+  "status": "active",
+  "description": "NewMerchant2",
+  "city": "jakarta",
+  "country": "Indonesia",
+  "contact_person": "NewMerchant2",
+  "email_addresses": [
+    "NewMerchant2@gmail.com"
+  ],
+  "phone_numbers": [
+    "7623232123"
+  ],
+  "address_line": "jl.setia",
+  "postal_code": "212121",
+  "business_hours": [
+  ],
+  "price_conversions": [
+  ],
+  "merchant_attributes": [
+    {
+      "attribute_key": "bank_name",
+      "attribute_value": "",
+      "language": "na"
+    },
+    {
+      "attribute_key": "branch_name",
+      "attribute_value": "",
+      "language": "na"
+    },
+    {
+      "attribute_key": "bank_account_name",
+      "attribute_value": "",
+      "language": "na"
+    },
+    {
+      "attribute_key": "bank_account_number",
+      "attribute_value": "",
+      "language": "na"
+    },
+    {
+      "attribute_key": "finance_phone_number",
+      "attribute_value": "",
+      "language": "na"
+    },
+    {
+      "attribute_key": "invoice_email",
+      "attribute_value": "",
+      "language": "na"
+    },
+    {
+      "attribute_key": "npwp_number",
+      "attribute_value": null,
+      "language": "na"
+    },
+    {
+      "attribute_key": "npwp_name",
+      "attribute_value": "",
+      "language": "na"
+    },
+    {
+      "attribute_key": "npwp_address",
+      "attribute_value": "",
+      "language": "na"
+    },
+    {
+      "attribute_key": "pharmacy_identity",
+      "attribute_value": "",
+      "language": "na"
+    },
+    {
+      "attribute_key": "is_pkp",
+      "attribute_value": null,
+      "language": "na"
+    }
+  ]
+}

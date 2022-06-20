@@ -1,0 +1,6 @@
+15:50:56.031 [main] INFO  c.h.c.BaseCMSTest - Setting up cms-test api suite..
+15:50:59.861 [main] INFO  c.h.c.BaseCMSTest - Teardown after cms-test api suite.
+15:51:08.494 [main] INFO  c.h.c.BaseCMSTest - Setting up cms-test api suite..
+15:51:10.949 [main] INFO  c.h.c.BaseCMSTest - Teardown after cms-test api suite.
+15:51:18.568 [main] INFO  c.h.c.BaseCMSTest - Setting up cms-test api suite..
+15:51:20.843 [main] INFO  c.h.c.BaseCMSTest - Teardown after cms-test api suite.

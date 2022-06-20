@@ -1,0 +1,10 @@
+{
+  "name": "$name",
+  "status": "$status",
+  "attributes": {
+    "address": "$address",
+    "landmark": "$landmark",
+    "latitude": "$latitude",
+    "longitude": "$longitude"
+  }
+}

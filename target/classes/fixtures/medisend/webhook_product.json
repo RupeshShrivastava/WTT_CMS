@@ -1,0 +1,11 @@
+{
+  "entity_type": "distributor",
+  "entity_id":"$entityId",
+  "name":"$name",
+  "price":$price,
+  "status":"$status",
+  "sku_id":"$skuId",
+  "attributes": {
+    "segmentation": "$segmentation"
+  }
+}

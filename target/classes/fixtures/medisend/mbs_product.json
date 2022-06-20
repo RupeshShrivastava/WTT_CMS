@@ -1,0 +1,23 @@
+{
+  "request_id":"123",
+  "auth_token":"81b8743879acf2be40857535b5e54605",
+  "data":[
+    {
+      "product_id": $id,
+      "product_name": "$name",
+      "distributor_product_code": "$skuId",
+      "status": $status,
+      "price": $price,
+      "uom": 6,
+      "image_url": "",
+      "type": "",
+      "segmentation": "pharma",
+      "manufacturer_id": 2,
+      "manufacturer_code": "CKD OTTO PHARMA",
+      "manufacturer_name": "CKD OTTO PHARMA",
+      "reserved_quantity": 0,
+      "cart_flag": 3,
+      "available_quantity": 0,
+      "segmentation": "$segmentation"
+    }]
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Tester",
+  "status": "active",
+  "description": "test merchant",
+  "city": "Bengu",
+  "country": "India",
+  "email_addresses": [
+    "tester@halodoc.com"
+  ],
+  "phone_numbers": [
+    "+621234123412"
+  ],
+  "address_line": "Gedung Mensa Street",
+  "postal_code": "560001",
+  "contact_person": "Mee",
+  "created_at": 0,
+  "updated_at": 0,
+  "created_by": "test",
+  "updated_by": "test"
+}

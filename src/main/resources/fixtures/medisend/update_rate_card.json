@@ -1,0 +1,7 @@
+{
+  "strategy": "percentage_discount",
+  "value": $value,
+  "currency": "IDR",
+  "status": "$status",
+  "entity_type": "entity_product"
+}

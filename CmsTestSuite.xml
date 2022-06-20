@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--suppress XmlUnboundNsPrefix, XmlUnboundNsPrefix, XmlUnboundNsPrefix, XmlUnboundNsPrefix -->
+<suite name="example suite 1" verbose="1">
+    <listeners>
+        <listener class-name="com.halodoc.cmstests.reports.CustomisedReports" />
+    </listeners>
+    <test name="CMS functional tests">
+        <classes preserve-order="true">
+            <class name="com.halodoc.cmstests.banners.BannerTest"/>
+            <class name="com.halodoc.cmstests.categories.CategoryTest"/>
+            <class name="com.halodoc.cmstests.products.ProductTest"/>
+            <class name="com.halodoc.cmstests.manufacturers.ManufacturerTest"/>
+            <class name="com.halodoc.cmstests.categoryProducts.CategoryProductTest"/>
+            <class name="com.halodoc.cmstests.attributes.ProductAttributeTest"/>
+            <class name="com.halodoc.cmstests.productMetaAttributes.ProductMetaAttributesTest"/>
+            <class name="com.halodoc.cmstests.merchants.MerchantTest"/>
+            <class name="com.halodoc.cmstests.locations.MerchantLocations"/>
+            <class name="com.halodoc.cmstests.merchantProducts.MerchantProductsTest"/>
+            <!--<class name="com.halodoc.cmstests.products.MinPriceChangeTest"/>-->
+            <class name="com.halodoc.cmstests.popUpStores.popUpStoreE2ETest"/>
+            <class name="com.halodoc.cmstests.priceConversions.ConversionTest"/>
+        </classes>
+    </test>
+</suite>

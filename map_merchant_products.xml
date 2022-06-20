@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--suppress XmlUnboundNsPrefix, XmlUnboundNsPrefix, XmlUnboundNsPrefix, XmlUnboundNsPrefix -->
+<suite name="example suite 1" verbose="1">
+    <listeners>
+        <listener class-name="com.halodoc.cmstests.reports.CustomisedReports" />
+    </listeners>
+    <test name="CMS functional tests">
+        <classes preserve-order="true">
+            <class name="com.halodoc.cmstests.locations.MerchantLocationProducts"/>
+        </classes>
+    </test>
+</suite>

@@ -1,0 +1,16 @@
+{
+  "distributor_reference_id": "$distributor_reference_id",
+  "pharmacy_location_id": "$pharmacy_location_id",
+  "name": "$name",
+  "status": "$status",
+  "entity_type": "distributor",
+  "attributes": {
+    "address": "$address",
+    "available_balance": "100000000",
+    "city": "",
+    "customer_limit": "100000000",
+    "id": "111",
+    "owner_name": "IDart-test3 IDart-test3",
+    "phone_number": ""
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "request_id": "0pHsFbVe-QsG6-G2eJ-4G47-wZvDtHoxYTha",
+  "auth_token": "f3a15c8603621cb881bce593bed50fcc",
+  "data": {
+    "id": $id,
+    "manufacturer_id": 1,
+    "name": "$name",
+    "image_url": null,
+    "thumbnail_url": null,
+    "price": $price,
+    "uom": "asd",
+    "distributor_code": "PBF",
+    "distributor_product_code": "$skuId",
+    "sold": null,
+    "segmentation": null,
+    "status": $status,
+    "is_prioritas": null,
+    "manufacturer_name": "indofood",
+    "url": "stage-distributor/v1/distributor-products",
+    "segmentation": "$segmentation"
+  }
+}

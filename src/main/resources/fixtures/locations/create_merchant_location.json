@@ -1,0 +1,33 @@
+{
+  "name": "Test automation",
+  "address_line": "Jakarta Selatan",
+  "landmark": null,
+  "city": "Jakarta",
+  "postal_code": "79654321",
+  "country": "Indonesia",
+  "contact_person": "Rico",
+  "email_addresses": [
+
+  ],
+  "phone_numbers": [
+    "+628123412341"
+  ],
+  "attributes": {},
+  "latitude": -6.221544,
+  "longitude": 106.832945,
+  "quality_of_service": 0,
+  "zone_id": "1",
+  "status": "active",
+  "business_hours": [
+    {
+      "created_at": 1492170037000,
+      "updated_at": 1492170037000,
+      "created_by": "Dev Token",
+      "updated_by": "Dev Token",
+      "day_of_week": "TUESDAY",
+      "start_time": "00:00",
+      "end_time": "22:30",
+      "active": true
+    }
+  ]
+}

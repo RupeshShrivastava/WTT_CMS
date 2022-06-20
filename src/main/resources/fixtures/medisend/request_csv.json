@@ -1,0 +1,8 @@
+{
+  "payload": {
+    "distributor_id": "$distributorId",
+    "branch_id": "$branchId"
+  },
+  "type": "$type",
+  "name": "asds"
+}

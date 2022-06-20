@@ -1,0 +1,4 @@
+{
+  "selling_product_id":"$sellingProductId",
+  "selling_uom_value": "$sellingUOMValue"
+}

@@ -1,0 +1,36 @@
+11:51:18.157 [main] INFO  c.h.c.BaseCMSTest - Setting up cms-test api suite..
+11:51:20.874 [main] INFO  c.h.c.BaseCMSTest - Teardown after cms-test api suite.
+13:26:14.337 [main] INFO  c.h.c.BaseCMSTest - Setting up cms-test api suite..
+13:26:16.752 [main] INFO  c.h.c.BaseCMSTest - Teardown after cms-test api suite.
+13:34:08.415 [main] INFO  c.h.c.BaseCMSTest - Setting up cms-test api suite..
+13:34:12.295 [main] INFO  c.h.c.BaseCMSTest - Teardown after cms-test api suite.
+13:37:33.888 [main] INFO  c.h.c.BaseCMSTest - Setting up cms-test api suite..
+13:37:40.119 [main] INFO  c.h.c.BaseCMSTest - Teardown after cms-test api suite.
+13:39:07.478 [main] INFO  c.h.c.BaseCMSTest - Setting up cms-test api suite..
+13:39:11.683 [main] INFO  c.h.c.BaseCMSTest - Teardown after cms-test api suite.
+13:40:02.713 [main] INFO  c.h.c.BaseCMSTest - Setting up cms-test api suite..
+13:40:06.330 [main] INFO  c.h.c.BaseCMSTest - Teardown after cms-test api suite.
+13:41:44.402 [main] INFO  c.h.c.BaseCMSTest - Setting up cms-test api suite..
+13:41:48.391 [main] INFO  c.h.c.BaseCMSTest - Teardown after cms-test api suite.
+13:45:20.523 [main] INFO  c.h.c.BaseCMSTest - Setting up cms-test api suite..
+13:45:24.591 [main] INFO  c.h.c.BaseCMSTest - Teardown after cms-test api suite.
+13:46:30.044 [main] INFO  c.h.c.BaseCMSTest - Setting up cms-test api suite..
+13:46:34.310 [main] INFO  c.h.c.BaseCMSTest - Teardown after cms-test api suite.
+13:48:41.956 [main] INFO  c.h.c.BaseCMSTest - Setting up cms-test api suite..
+13:48:47.003 [main] INFO  c.h.c.BaseCMSTest - Teardown after cms-test api suite.
+13:52:53.911 [main] INFO  c.h.c.BaseCMSTest - Setting up cms-test api suite..
+13:52:58.038 [main] INFO  c.h.c.BaseCMSTest - Teardown after cms-test api suite.
+13:53:16.470 [main] INFO  c.h.c.BaseCMSTest - Setting up cms-test api suite..
+13:53:18.877 [main] INFO  c.h.c.BaseCMSTest - Teardown after cms-test api suite.
+13:53:58.504 [main] INFO  c.h.c.BaseCMSTest - Setting up cms-test api suite..
+13:54:01.155 [main] INFO  c.h.c.BaseCMSTest - Teardown after cms-test api suite.
+13:55:14.043 [main] INFO  c.h.c.BaseCMSTest - Setting up cms-test api suite..
+13:55:19.182 [main] INFO  c.h.c.BaseCMSTest - Teardown after cms-test api suite.
+19:03:11.213 [main] INFO  c.h.c.BaseCMSTest - Setting up cms-test api suite..
+19:03:11.402 [main] INFO  c.h.c.m.MedisendTests - Running Test : verifySearchPharmacy
+19:03:14.287 [main] INFO  c.h.c.m.MedisendTests - Exit Test : verifySearchPharmacy
+19:03:14.409 [main] INFO  c.h.c.BaseCMSTest - Teardown after cms-test api suite.
+19:04:35.377 [main] INFO  c.h.c.BaseCMSTest - Setting up cms-test api suite..
+19:04:35.562 [main] INFO  c.h.c.m.MedisendTests - Running Test : verifyCancelInventory
+19:04:38.911 [main] INFO  c.h.c.m.MedisendTests - Exit Test : verifyCancelInventory
+19:04:39.031 [main] INFO  c.h.c.BaseCMSTest - Teardown after cms-test api suite.

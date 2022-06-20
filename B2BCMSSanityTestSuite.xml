@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="B2B CMS Suite" verbose="1" parallel="none" preserve_order="true">
+    <listeners>
+        <listener class-name="com.halodoc.cmstests.slack.SlackStageListener"></listener>
+    </listeners>
+    <test name="CMS tests">
+        <groups>
+            <run>
+                <include name="sanity"/>
+            </run>
+        </groups>
+        <classes>
+            <class name="com.halodoc.cmstests.medisend.MedisendTests"/>
+            <class name="com.halodoc.cmstests.medisend.DiscountSetupTests"/>
+            <class name="com.halodoc.cmstests.medisend.UOMConverterTests"/>
+            <class name="com.halodoc.cmstests.medisend.WebhookCreateUpdateTests"/>
+            <class name="com.halodoc.cmstests.medisend.SKUMappingTests"/>
+            <class name="com.halodoc.cmstests.medisend.MerchantLocationMappingTests"/>
+            <class name="com.halodoc.cmstests.medisend.InvoiceTests"/>
+        </classes>
+    </test>
+</suite>

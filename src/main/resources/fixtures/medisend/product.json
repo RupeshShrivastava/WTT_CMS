@@ -1,0 +1,11 @@
+{
+  "product_id": "$productId",
+  "status": "$status",
+  "cost_price": "$costPrice",
+  "sku_id": "$skuId",
+  "available_quantity": $availableQuantity,
+  "attributes": {
+    "discount_enabled": $discountEnabled,
+    "segmentation": "$segmentation"
+  }
+}

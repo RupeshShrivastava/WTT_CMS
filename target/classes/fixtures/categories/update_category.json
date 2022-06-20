@@ -1,0 +1,15 @@
+{
+  "code": "$code",
+  "name": "Batuk dan Flu",
+  "description": "Test automation update",
+  "status": "inactive",
+  "parent_id": null,
+  "image_url": "https://s3-ap-southeast-1.amazonaws.com/timor-apotik-antar/categories/i_batuk.png",
+  "sub_categories": [],
+  "channels": [
+    "GO_MED",
+    "HALODOC"
+  ],
+  "display": false,
+  "display_order": 100
+}

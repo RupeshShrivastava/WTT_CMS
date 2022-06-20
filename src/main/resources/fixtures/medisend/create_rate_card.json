@@ -1,0 +1,17 @@
+{
+  "strategy": "percentage_discount",
+  "value": $value,
+  "currency": "IDR",
+  "status": "active",
+  "rules": [
+    {
+      "status": "active",
+      "attribute": "quantity",
+      "operator": "between",
+      "values": [
+        "$min_quantity",
+        "$max_quantity"
+      ]
+    }
+  ]
+}

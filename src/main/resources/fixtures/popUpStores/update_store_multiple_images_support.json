@@ -1,0 +1,34 @@
+{
+  "images": [
+    {
+      "type": "image_url",
+      "extension": "webp",
+      "url": "https://s3.amazonaws.com/uifaces/faces/twitter/myastro/128.jpg"
+    },
+    {
+      "type": "image_url",
+      "extension": "webp",
+      "url": "http://placeimg.com/640/480/cats"
+    },
+    {
+      "type": "thumbnail_url",
+      "extension": "webp",
+      "url": "http://placeimg.com/640/480/city"
+    },
+    {
+      "type": "thumbnail_url",
+      "extension": "webp",
+      "url": "https://s3.amazonaws.com/uifaces/faces/twitter/kirangopal/128.jpg"
+    },
+    {
+      "type": "thumbnail_url",
+      "extension": "webp",
+      "url": "http://placeimg.com/640/480/city"
+    },
+    {
+      "type": "thumbnail_url",
+      "extension": "webp",
+      "url": "https://s3.amazonaws.com/uifaces/faces/twitter/kirangopal/128.jpg"
+    }
+  ]
+}

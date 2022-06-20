@@ -1,0 +1,9 @@
+{
+  "name": "$name",
+  "status": "$status",
+  "description": "$description",
+  "contact_information": {
+    "phone_number": "$phoneNumber"
+  },
+  "payment_instructions": "$paymentInstructions"
+}

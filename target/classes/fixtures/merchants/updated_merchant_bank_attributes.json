@@ -1,0 +1,130 @@
+{
+  "country": "Indonesia",
+  "email_addresses": [
+    "NewMerchant12@gmail.com"
+  ],
+  "address_line": "jl.setia",
+  "city": "jakarta",
+  "contact_person": "NewMerchant2",
+  "description": "NewMerchant2",
+  "created_at": 1622033887000,
+  "created_by": "QA Token",
+  "phone_numbers": [
+    "7623232123"
+  ],
+  "updated_at": 1622034047000,
+  "name": "NewMerchant5",
+  "updated_by": "Timor Token",
+  "attributes": [
+    {
+      "updated_at": 1622033887000,
+      "updated_by": "QA Token",
+      "attribute_key": "bank_account_name",
+      "created_at": 1622033887000,
+      "language": "na",
+      "attribute_value": "erwe",
+      "created_by": "QA Token"
+    },
+    {
+      "updated_at": 1622033887000,
+      "updated_by": "QA Token",
+      "attribute_key": "finance_phone_number",
+      "created_at": 1622033887000,
+      "language": "na",
+      "attribute_value": "26531621",
+      "created_by": "QA Token"
+    },
+    {
+      "updated_at": 1622033887000,
+      "updated_by": "QA Token",
+      "attribute_key": "invoice_email",
+      "created_at": 1622033887000,
+      "language": "na",
+      "attribute_value": "asdgaskj@gmail.com",
+
+      "created_by": "QA Token"
+    },
+    {
+      "updated_at": 1622033887000,
+      "updated_by": "QA Token",
+      "attribute_key": "is_pkp",
+      "created_at": 1622033887000,
+      "language": "na",
+      "attribute_value": "false",
+
+      "created_by": "QA Token"
+    },
+    {
+      "updated_at": 1622033887000,
+      "updated_by": "QA Token",
+      "attribute_key": "npwp_number",
+      "created_at": 1622033887000,
+      "language": "na",
+      "attribute_value": "21653263",
+      "created_by": "QA Token"
+    },
+    {
+      "updated_at": 1622033887000,
+      "updated_by": "QA Token",
+      "attribute_key": "bank_account_number",
+      "created_at": 1622033887000,
+      "language": "na",
+      "attribute_value": "213487909",
+
+      "created_by": "QA Token"
+    },
+    {
+      "updated_at": 1622033887000,
+      "updated_by": "QA Token",
+      "attribute_key": "npwp_address",
+      "created_at": 1622033887000,
+      "language": "na",
+      "attribute_value": "NPWP  address",
+
+      "created_by": "QA Token"
+    },
+    {
+      "updated_at": 1622033887000,
+      "updated_by": "QA Token",
+      "attribute_key": "npwp_name",
+      "created_at": 1622033887000,
+      "language": "na",
+      "attribute_value": "NPWP ",
+
+      "created_by": "QA Token"
+    },
+    {
+      "updated_at": 1622033887000,
+      "updated_by": "QA Token",
+      "attribute_key": "branch_name",
+      "created_at": 1622033887000,
+      "language": "na",
+      "attribute_value": "jakarta",
+
+      "created_by": "QA Token"
+    },
+    {
+      "updated_at": 1622033887000,
+      "updated_by": "QA Token",
+      "attribute_key": "pharmacy_identity",
+      "created_at": 1622033887000,
+      "language": "na",
+      "attribute_value": "Company",
+
+      "created_by": "QA Token"
+    },
+    {
+      "updated_at": 1622033887000,
+      "updated_by": "QA Token",
+      "attribute_key": "bank_name",
+      "created_at": 1622033887000,
+      "language": "na",
+      "attribute_value": "updated sbi bank",
+
+      "created_by": "QA Token"
+    }
+  ],
+  "postal_code": "212121",
+  "status": "active",
+  "price_conversions": []
+}

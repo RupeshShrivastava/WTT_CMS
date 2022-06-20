@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Timor CMS Suite" verbose="1" parallel="none" preserve_order="true">
+    <test name="CMS tests">
+        <groups>
+            <run>
+                <include name="sanity" />
+            </run>
+        </groups>
+        <classes>
+            <class name="com.halodoc.cmstests.attributes.ProductAttributeTest"/>
+            <class name="com.halodoc.cmstests.banners.BannerTest"/>
+            <class name="com.halodoc.cmstests.categories.CategorySanityTest"/>
+            <class name="com.halodoc.cmstests.categoryProducts.CategoryProductTest"/>
+            <class name="com.halodoc.cmstests.locations.MerchantLocationsV3"/>
+            <class name="com.halodoc.cmstests.manufacturers.ManufacturerTest"/>
+            <class name="com.halodoc.cmstests.merchantProducts.MerchantProductsTest"/>
+            <class name="com.halodoc.cmstests.merchantProducts.PriceControlTest"/>
+            <class name="com.halodoc.cmstests.merchants.MerchantTest"/>
+            <class name="com.halodoc.cmstests.popUpStores.popUpStoreE2ETest"/>
+            <class name="com.halodoc.cmstests.priceConversions.ConversionTest"/>
+            <class name="com.halodoc.cmstests.productMetaAttributes.ProductMetaAttributesTest"/>
+            <class name="com.halodoc.cmstests.products.ProductTest"/>
+            <class name="com.halodoc.cmstests.productVariant.ProductGroupCreationTest"/>
+        </classes>
+    </test>
+</suite>

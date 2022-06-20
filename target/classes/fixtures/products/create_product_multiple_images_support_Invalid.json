@@ -1,0 +1,17 @@
+{
+  "name":"test product",
+  "meta_description":"good for anything",
+  "meta_keywords":"good,anything",
+  "type":"medicine",
+  "base_price":"900",
+  "currency":"IDR",
+  "thumbnail_url":"http://akjng.ccjdnc.png",
+  "image_url":"http://akjng.ccjdnc.png",
+  "manufacturer_id":"1",
+  "status":"active",
+  "display":true,
+  "max_retail_price":1000,
+  "min_allowable_price": 100,
+  "max_allowable_price": 3000,
+  "images": ["asdf"]
+}

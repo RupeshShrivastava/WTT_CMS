@@ -1,0 +1,7 @@
+{
+  "category_id": "$catId",
+  "product_id": "$productId",
+  "category_external_id": null,
+  "product_external_id": null,
+  "status": "active"
+}
